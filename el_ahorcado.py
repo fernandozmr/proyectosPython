@@ -15,7 +15,7 @@ def obtener_palabra_valida (lista_palabras):
 def ahorcado():
 
     print ("========================================")
-    print ("Bienvenide al juego del ahorcado")
+    print ("Bienvenides al juego del ahorcado")
     print ("========================================")
 
     palabra = obtener_palabra_valida (palabras).upper()
